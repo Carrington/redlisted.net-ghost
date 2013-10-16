@@ -1,0 +1,11 @@
+# GHOST FILES #
+###############
+LICENSE.txt
+Gruntfile.js
+content/
+core/
+core/*
+node_modules/
+index.js
+config.example.js
+package.json
